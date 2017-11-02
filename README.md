@@ -1,4 +1,4 @@
-https://meuprojeto-1068c.firebaseapp.com
+https://meuprojeto-1068c.firebaseapp.com/
 
 
 
